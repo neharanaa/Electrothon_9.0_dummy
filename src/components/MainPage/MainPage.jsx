@@ -45,7 +45,7 @@ export default function MainPage() {
         <video
           ref={videoRef}
           className="absolute inset-0 w-full h-full object-cover z-0"
-          src="/videos/bg_old.mp4"
+          src="/videos/bg.mp4"
           autoPlay
           loop
           muted
